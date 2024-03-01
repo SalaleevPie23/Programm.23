@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ConsoleApplication4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{449B77A3-3D3E-4D20-9098-9E976CB8FA9E}|ConsoleApplication4\\ConsoleApplication4.vcxproj|D:\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{449B77A3-3D3E-4D20-9098-9E976CB8FA9E}|ConsoleApplication4\\ConsoleApplication4.vcxproj|solutionrelative:ConsoleApplication4\\ConsoleApplication4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication4.cpp",
+              "DocumentMoniker": "D:\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication4\\ConsoleApplication4.cpp",
+              "ToolTip": "D:\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4.cpp*",
+              "RelativeToolTip": "ConsoleApplication4\\ConsoleApplication4.cpp*",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-01T08:54:46.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
